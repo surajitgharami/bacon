@@ -1,0 +1,63 @@
+body{
+background-image: linear-gradient(to right,#1b1717,#21243d);
+
+height: 100%;
+
+
+
+}
+h1{
+  font-family: "lucida console","times new roman",sans-serif;
+  font-weight: 300;
+  font-size: 80px;
+  color: #ffffdd;
+  text-decoration: overline;
+
+  padding-top: 10%;
+  text-align:  center;
+
+}
+p{
+  font-family: "lucida console",sans-serif;
+  font-size: 40px;
+
+
+  font-variant: inherit;
+
+  padding-left: 25%;
+  color: #f8ede3;
+  font-weight: 400;
+  margin: 3px;
+
+
+}
+fieldset{
+  border-style: none;
+  border-top-style: double;
+  border-top-width: thick;
+
+
+
+}
+
+legend{
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #333333;
+  font-size: 20px;
+  border-radius: 45%;
+
+  background-image: linear-gradient(to left,#caf7e3,#9fd8df);
+
+}
+table{
+  font-family: monospace;
+  font-size: 20px;
+  color: #f8ede3;
+}
+h4{
+  font-family: sans-serif;
+  color: #f8ede3;
+  font-size: 26px;
+  font-weight: 200;
+}
